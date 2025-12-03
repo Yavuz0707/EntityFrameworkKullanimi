@@ -1,0 +1,17 @@
+C:\Users\sukru\Desktop\DERSLER\ApiProje\EntityOrnek\EntityOrnek\bin\Debug\EntityOrnek.exe.config
+C:\Users\sukru\Desktop\DERSLER\ApiProje\EntityOrnek\EntityOrnek\bin\Debug\EntityOrnek.exe
+C:\Users\sukru\Desktop\DERSLER\ApiProje\EntityOrnek\EntityOrnek\bin\Debug\EntityOrnek.pdb
+C:\Users\sukru\Desktop\DERSLER\ApiProje\EntityOrnek\EntityOrnek\bin\Debug\EntityFramework.dll
+C:\Users\sukru\Desktop\DERSLER\ApiProje\EntityOrnek\EntityOrnek\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sukru\Desktop\DERSLER\ApiProje\EntityOrnek\EntityOrnek\bin\Debug\EntityFramework.xml
+C:\Users\sukru\Desktop\DERSLER\ApiProje\EntityOrnek\EntityOrnek\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sukru\Desktop\DERSLER\ApiProje\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.csproj.AssemblyReference.cache
+C:\Users\sukru\Desktop\DERSLER\ApiProje\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.Form1.resources
+C:\Users\sukru\Desktop\DERSLER\ApiProje\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.Properties.Resources.resources
+C:\Users\sukru\Desktop\DERSLER\ApiProje\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.csproj.GenerateResource.cache
+C:\Users\sukru\Desktop\DERSLER\ApiProje\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.csproj.CoreCompileInputs.cache
+C:\Users\sukru\Desktop\DERSLER\ApiProje\EntityOrnek\EntityOrnek\obj\Debug\EntityOr.DE0246B1.Up2Date
+C:\Users\sukru\Desktop\DERSLER\ApiProje\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.exe
+C:\Users\sukru\Desktop\DERSLER\ApiProje\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.pdb
+C:\Users\sukru\Desktop\DERSLER\ApiProje\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.Form2.resources
+C:\Users\sukru\Desktop\DERSLER\ApiProje\EntityOrnek\EntityOrnek\obj\Debug\EntityOrnek.exe.config
